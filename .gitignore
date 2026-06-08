@@ -216,3 +216,10 @@ __marimo__/
 
 # Streamlit
 .streamlit/secrets.toml
+
+
+pipeline/ny_taxi_postgres_data/
+pipeline/.venv/
+pipeline/.ipynb_checkpoints/
+
+test/*.txt
