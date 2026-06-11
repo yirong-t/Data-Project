@@ -8,6 +8,10 @@ dependencies = [
     "pandas>=3.0.3",
     "pyarrow>=24.0.0",
     "nbconvert",
+    "tqdm>=4.68.2",
+    "sqlalchemy>=2.0.50",
+    "click>=8.4.1",
+    "psycopg-binary>=3.3.4",
 ]
 
 [dependency-groups]
